@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>titleName</key>
+			<string>WIFI自动下载号码库</string>
+			<key>open</key>
+			<false/>
+			<key>style</key>
+			<integer>1</integer>
+			<key>text</key>
+			<string></string>
+			<key>imageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>titleName</key>
+			<string>使用说明</string>
+			<key>imageName</key>
+			<string></string>
+			<key>open</key>
+			<true/>
+			<key>style</key>
+			<integer>3</integer>
+			<key>text</key>
+			<string></string>
+		</dict>
+	</array>
+</array>
+</plist>

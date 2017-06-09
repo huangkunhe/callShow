@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>titleName</key>
+			<string>号码库版本</string>
+			<key>open</key>
+			<false/>
+			<key>style</key>
+			<integer>4</integer>
+			<key>text</key>
+			<string></string>
+			<key>imageName</key>
+			<string>icon_new_version</string>
+		</dict>
+		<dict>
+			<key>titleName</key>
+			<string>身份识别</string>
+			<key>imageName</key>
+			<string></string>
+			<key>open</key>
+			<false/>
+			<key>style</key>
+			<integer>1</integer>
+			<key>text</key>
+			<string>未开启</string>
+		</dict>
+		<dict>
+			<key>titleName</key>
+			<string>黑名单</string>
+			<key>imageName</key>
+			<string></string>
+			<key>style</key>
+			<integer>3</integer>
+			<key>open</key>
+			<true/>
+			<key>text</key>
+			<string></string>
+		</dict>
+	</array>
+</array>
+</plist>

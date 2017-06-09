@@ -1,0 +1,28 @@
+//
+//  SCPrefixHeader.pch
+//  callShow
+//
+//  Created by river on 2017/3/24.
+//  Copyright © 2017年 richinfo. All rights reserved.
+//
+
+#ifndef SCPrefixHeader_pch
+#define SCPrefixHeader_pch
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "SCSDKHeader.h"
+
+#import "FileHelper.h"
+#import "NSFileManager+TD.h"
+#import "TD_MJExtension.h"
+#import "SCModel.h"
+#import "SCVersionModel.h"
+#import "SCPhoneNumber.h"
+#import "TDEntity.h"
+
+#endif
+
+#endif /* SCPrefixHeader_pch */

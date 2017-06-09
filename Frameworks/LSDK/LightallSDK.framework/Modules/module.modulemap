@@ -1,0 +1,6 @@
+framework module LightallSDK {
+  umbrella header "LightallSDK.h"
+
+  export *
+  module * { export * }
+}
